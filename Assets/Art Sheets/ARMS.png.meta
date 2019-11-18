@@ -1,7 +1,115 @@
 fileFormatVersion: 2
 guid: 909645860929da048b885ebb6241540d
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 189001346283732440
+    second: ARMS_0
+  - first:
+      213: 53598218926477182
+    second: ARMS_1
+  - first:
+      213: 4356865476202687225
+    second: ARMS_2
+  - first:
+      213: 6075052433564490871
+    second: ARMS_3
+  - first:
+      213: -8764866944087781319
+    second: ARMS_4
+  - first:
+      213: -5383836716662318377
+    second: ARMS_5
+  - first:
+      213: 80565697674468335
+    second: ARMS_6
+  - first:
+      213: -1037900784516655396
+    second: ARMS_7
+  - first:
+      213: 4426175941665556765
+    second: ARMS_8
+  - first:
+      213: -8843158181607554753
+    second: ARMS_9
+  - first:
+      213: 1669655482834163774
+    second: ARMS_10
+  - first:
+      213: -889829534909418368
+    second: ARMS_11
+  - first:
+      213: -7347756797334842330
+    second: ARMS_12
+  - first:
+      213: 3947385980165310668
+    second: ARMS_13
+  - first:
+      213: -2612682505873575884
+    second: ARMS_14
+  - first:
+      213: 8848770349949505826
+    second: ARMS_15
+  - first:
+      213: 5934171084109401432
+    second: ARMS_16
+  - first:
+      213: -9138681576212253421
+    second: ARMS_17
+  - first:
+      213: -7803687671069596921
+    second: ARMS_18
+  - first:
+      213: 1711414156384258105
+    second: ARMS_19
+  - first:
+      213: -5854790026391218067
+    second: ARMS_20
+  - first:
+      213: 8720610016946313476
+    second: ARMS_21
+  - first:
+      213: -4293458292563500636
+    second: ARMS_22
+  - first:
+      213: 9100884536473631461
+    second: ARMS_23
+  - first:
+      213: 8222436889502772676
+    second: ARMS_24
+  - first:
+      213: 3521410223479179242
+    second: ARMS_25
+  - first:
+      213: -5740094166778099467
+    second: ARMS_26
+  - first:
+      213: -473495855809684349
+    second: ARMS_27
+  - first:
+      213: -1299934411524627641
+    second: ARMS_28
+  - first:
+      213: 8335891499814518531
+    second: ARMS_29
+  - first:
+      213: 6164998430083259039
+    second: ARMS_30
+  - first:
+      213: -7165660008398131378
+    second: ARMS_31
+  - first:
+      213: -8635145506437599312
+    second: ARMS_32
+  - first:
+      213: -8741889028360545616
+    second: ARMS_33
+  - first:
+      213: -1089723063942767794
+    second: ARMS_34
+  - first:
+      213: 1130901257320191174
+    second: ARMS_35
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -40,12 +148,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 0.001
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -70,9 +178,777 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: ARMS_0
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 712
+        width: 29
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a9d92c0a2959a46b1c5da8b039a285
+      internalID: 189001346283732440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARMS_1
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 708
+        width: 39
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ce47fbfa63903d44a4f9bdb139b45da
+      internalID: 53598218926477182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARMS_2
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 704
+        width: 48
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba6b9a5bf77eeba409fdbf221285441e
+      internalID: 4356865476202687225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARMS_3
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 704
+        width: 54
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d31d51e4c5d4fb45bf0b350d9ff2fe0
+      internalID: 6075052433564490871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARMS_4
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 619
+        width: 54
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c56a312ce4a35e4dbb47dc329bf7807
+      internalID: -8764866944087781319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARMS_5
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 619
+        width: 48
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aefc443c41e4e644fbab9e6ef09b8cec
+      internalID: -5383836716662318377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARMS_6
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 623
+        width: 40
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f69bc450caf61bb43b262980ff1feb6e
+      internalID: 80565697674468335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARMS_7
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 627
+        width: 31
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95585ffc519955d43866832cb6ba79c4
+      internalID: -1037900784516655396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARMS_8
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 514
+        width: 54
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfa99912d9acf284798edf6a065cb39e
+      internalID: 4426175941665556765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARMS_9
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 514
+        width: 54
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ce68135ce0a1354c82c09c796032763
+      internalID: -8843158181607554753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARMS_10
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 514
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f35eac9b4f8cb54cafdf41bd18de51f
+      internalID: 1669655482834163774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARMS_11
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 514
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7565f947af859bd48bcab36bf980a2c3
+      internalID: -889829534909418368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARMS_12
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 514
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b78783282c2ed1848898aec8ba334c13
+      internalID: -7347756797334842330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARMS_13
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 514
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b51ef3e1556350545928c0b47d48a5b6
+      internalID: 3947385980165310668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARMS_14
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 389
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f99aabf2f27ab6449e784fd34c0a324
+      internalID: -2612682505873575884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARMS_15
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 389
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e6dbbf56b99a7c459370ceac39bd55e
+      internalID: 8848770349949505826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARMS_16
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 389
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d057325cfec00404bb59249b3a5ca96d
+      internalID: 5934171084109401432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARMS_17
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 389
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 583509f327243b744906b4142a5d4372
+      internalID: -9138681576212253421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARMS_18
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 389
+        width: 54
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b02adf06ae29e5e4094c8b2ca61f20c5
+      internalID: -7803687671069596921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARMS_19
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 389
+        width: 54
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95254cc50146fa14694c3069619bb0c7
+      internalID: 1711414156384258105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARMS_20
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 283
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9796d0647ee43574d9c67ad8d5e087ff
+      internalID: -5854790026391218067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARMS_21
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 283
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aeb95fb07cc03c4a9b193023f7722bc
+      internalID: 8720610016946313476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARMS_22
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 283
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd8cf7f4a80b733468e613f9f25c8aba
+      internalID: -4293458292563500636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARMS_23
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 283
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2f0cc3478f42a640bf0365551c22e56
+      internalID: 9100884536473631461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARMS_24
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 293
+        width: 54
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c0201b001840bc4fa58f95016827b60
+      internalID: 8222436889502772676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARMS_25
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 300
+        width: 54
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 833642eddf64b5c4486de849ab1c63c2
+      internalID: 3521410223479179242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARMS_26
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 175
+        width: 54
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e7d15ed823c46140ad76b389b0fecc6
+      internalID: -5740094166778099467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARMS_27
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 168
+        width: 54
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e60d976150cf7a742b22c005e6e02275
+      internalID: -473495855809684349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARMS_28
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 158
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b0d45ab7f27a3248a7eb5333ad0ba1d
+      internalID: -1299934411524627641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARMS_29
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 158
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9110e1432a82b54e8bef759c5360e3e
+      internalID: 8335891499814518531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARMS_30
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 158
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b326ce18c8c4434c82536966bbb5304
+      internalID: 6164998430083259039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARMS_31
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 158
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc11c525da7bfbe4d9f6ed6bcc4b1867
+      internalID: -7165660008398131378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARMS_32
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 81
+        width: 54
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c26b7e37abcf444db43426faf5ee13b
+      internalID: -8635145506437599312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARMS_33
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 81
+        width: 48
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e11d1bfc41477ac409fb4ce2d0839388
+      internalID: -8741889028360545616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARMS_34
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 87
+        width: 40
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fece01cc627d5b41abf1e460ef253a1
+      internalID: -1089723063942767794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARMS_35
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 89
+        width: 31
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7681392f1e43874db4553b66ab13824
+      internalID: 1130901257320191174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
